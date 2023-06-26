@@ -24,7 +24,7 @@ void insertion_sort_list(listint_t **list)
 	}
 }
 /**
- *swap_node - swaps a node for his previous one
+ *swap_node - swaps a node for its previous one
  *@node: node
  *@list: node list
  *Return: return a pointer to a node which was enter it
