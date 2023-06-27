@@ -33,7 +33,7 @@ void swap1(listint_t **list, listint_t *head, listint_t *aux);
 void swap2(listint_t **list, listint_t *head, listint_t *aux);
 void counting_sort(int *array, size_t size);
 void merge_sort(int *array, size_t size);
-void _merge(int *array, int *temp, size_t size);
+void _merge_sort(int *array, int *temp, size_t size);
 
 
 #endif
